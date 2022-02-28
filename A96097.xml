@@ -1,0 +1,630 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arch-rebel found, or An answer to Mr. M. H.'s Brief enquiry into the true nature of schism By T.W., citizen of Chester ...</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96097</idno>
+            <idno type="STC">Wing W111A</idno>
+            <idno type="STC">ESTC R43946</idno>
+            <idno type="EEBO-CITATION">42476395</idno>
+            <idno type="OCLC">ocm 42476395</idno>
+            <idno type="VID">151433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arch-rebel found, or An answer to Mr. M. H.'s Brief enquiry into the true nature of schism By T.W., citizen of Chester ...</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>in the Year, 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound.</note>
+                  <note>Reproduction of original in: Guildhall (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry, Matthew, 1662-1714. --  Brief enquiry into the nature of schism.</term>
+               <term>Church of England --  Controversial literature.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151433:1"/>
+            <p>THE ARCH-REBEL found; OR AN ANSWER TO Mr. <hi>M. H's.</hi> Brief Enquiry into the true Na<g ref="char:EOLhyphen"/>ture of SCHISM.</p>
+            <p>By <hi>T. W.</hi> Citizen of <hi>Cheſter,</hi> and a Sincere lover of Truth.</p>
+            <q>
+               <bibl>
+                  <hi>EZEK. 13 Verſe 10.</hi>
+               </bibl>
+               <p>Becauſe, even becauſe they have ſeduced my People, ſaying Peace, and there was no Peace.</p>
+            </q>
+            <p>Printed for the Author, in the Year, 1690.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151433:2"/>
+            <pb facs="tcp:151433:2"/>
+            <head>TO THE READER.</head>
+            <p>THO by many Learned and Pious <hi>Clergy-men</hi> of our <hi>Church,</hi> the Folly and Schiſm of our <hi>Diſſen<g ref="char:EOLhyphen"/>ters,</hi> has been clearly and ſufficiently evinced and demon<g ref="char:EOLhyphen"/>ſtrated; yet you ſee how reſtleſs their Spirits are, and with what little ſhifts they continue to buoy up their <hi>Facti<g ref="char:EOLhyphen"/>on:</hi> The little Book of Mr. <hi>M. H</hi>'s <hi>Enquiry, &amp;c.</hi> ſhall by them be vaſtly prefer'd to, and Dogmatically affirm'd, to have the <hi>Conqueſt</hi> over all the <hi>Learned, Orthodox</hi> and <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laborate Writings,</hi> of <hi>Hooker, Bramhall, Hammond, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aunderſon,</hi> and divers others. I have heard ſome of his <hi>Diſciples</hi> boaſt, that it was not, nor could be <hi>Anſwer'd</hi> by any of the <hi>Church-men;</hi> which conſidering, and withall, how it was as much below a <hi>Clergy-man</hi> to ſpend his pre<g ref="char:EOLhyphen"/>cious time about ſuch a trifle of a Book, as it is for a Lyon to concern himſelf with a little inſignificant barking Whelp;
+<pb facs="tcp:151433:3"/> I undertook my <hi>Lay-brother;</hi> with a Reſolution of Pati<g ref="char:EOLhyphen"/>ence and Cour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, without any Apology; (being not skill'd therein) to undergo the cenſures of all that read theſe papers.</p>
+            <p>If thou be a true <hi>Member</hi> of our <hi>Church,</hi> I have confi<g ref="char:EOLhyphen"/>dence and am well aſſured, thy precious <hi>Balm</hi> will never break my Head; thy Religion hath taught thee Charity and Candor ſufficient to cover any weakneſs, that thou mayeſt diſcover; and if thou art pleaſed with my attempt, it is my great ſatis<g ref="char:EOLhyphen"/>faction.</p>
+            <p>If thou be a <hi>Diſſenter</hi> who has not Sacrificed thy Name to the Factious, ſo as to diveſt thy ſelf of all Chriſtian Temper of Humility and Conſideration, there is hope of thy Recon<g ref="char:EOLhyphen"/>ciliation, and that thou wilt conſider thy deſperate State and Condition; and if my weak endeavours may contribute to the ſnatching thee as a Fire-brand out of the Fire, I ſhall exceedingly rejoyce, but not I only, for the Bleſſed Angels in Heaven will have joy among them, for thy Addition to the <hi>Catholick Church;</hi> of which they are the moſt <hi>Glori<g ref="char:EOLunhyphen"/>ous Members.</hi>
+            </p>
+            <p>If thou be Sceptical, a ſlighter of our Religion, Ob<g ref="char:EOLhyphen"/>ſtinate and Perverſe, a Deſpiſer and Reviler of our <hi>Cler<g ref="char:EOLhyphen"/>gy,</hi> whom I eſteem as the Stewards of the Myſtery of God, and the Miniſters of Reconciliation? I ſhall altogether glo<g ref="char:EOLhyphen"/>ry in thy Scoffs, and have a low eſteem of thy good words.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151433:3"/>
+            <head>THE ARCH-REBEL found; OR AN ANSWER TO Mr. <hi>M. H's</hi> Brief Enquiry into the true nature of Schiſm, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAD your Enquiry been to find out the true Notion of the Ninth Article in the Apoſtles <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reed, (viz.) <hi>I believe the Holy Catholick Church, the Communion of Saints?</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou had then found the true Standard, by which you might have made a far clearer diſcovery of Schiſm, than you have done by your Enquiry.</p>
+            <p>For which purpoſe I offer to your Conſideration, firſt the Originati<g ref="char:EOLhyphen"/>on and firſt Exiſtance of the Catholick Church; which was before the day of Pentecoſt; Acts 1. v. 15. <hi>The number of the Names together, were about an Hundred and Twenty:</hi> This Number conſiſted of the Apoſtles and Diſciples.</p>
+            <pb n="2" facs="tcp:151433:4"/>
+            <p>That this was the Church, appears, Cap 2. v. 47. <hi>And the Lord ad<g ref="char:EOLhyphen"/>ded to the Church</hi> (that is to the Apoſtles and Diſciples) <hi>dayly ſuch as ſhould be ſaved;</hi> To encreaſe his Church, and to plant it in all Nations, Chriſt Jeſus the head thereof, gave unto the Apoſtles Univerſal power, (Saint John, 20.21. <hi>As the Father ſent me, even ſo ſend I you</hi>) to Preach the Goſpel to all the World; that in every Nation, they that believe might be Baptiz'd and made Members of this Church, which is the Myſtical Bo<g ref="char:EOLhyphen"/>dy of Chriſt.</p>
+            <p>And the Apoſtles according to the Command of our Saviour, and by Virtue of that Power wherewith he inveſted them, and thoſe extraordi<g ref="char:EOLhyphen"/>nary gifts which they received by the Deſcent of the Holy Ghoſt, ena<g ref="char:EOLhyphen"/>bling them mightily for ſo great a work, did preach the Goſpel to all Nations; and ſo wonderfully prevail'd, that in the life time of St. <hi>John,</hi> there were Seven Churches Eſtabliſhed in <hi>Aſia,</hi> under Seven Biſhops, each Church having a Biſhop preſiding over it; which is very manifeſt by the name Angel, which St. <hi>John</hi> gives them Now, though there be a Multiplication or Plurality of Churches, by the encreaſe of Believers, yet no variation; they are all one with that Church firſt mentioned at <hi>Jeruſalem,</hi> and all one with one another, being all United into one Spiritual Society, or Body, under one Head Chriſt Jeſus, and are in all things the ſame with that firſt Church; United in one Baptiſm, and in one Faith; and all pertake at the ſame Table, eating the ſame Bread, being the Symbol of the ſame Body which ſuffered on the Croſs; and drinking all of the ſame Cup, the Cup of the New Teſtament, the Sym<g ref="char:EOLhyphen"/>bol of the Blood of Chriſt which he ſhed for his Church; and ſo Uni<g ref="char:EOLhyphen"/>ted all, in the viſible external Worſhip and Service of God. This is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Original and firſt being of the Church.</p>
+            <p>The next thing, Sir, I offer to your conſideration, is the Continuance o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Duration of this Church on Earth, and that is till our Bleſſed Saviour's ſecond Advent, St. Mat. 28.20. <hi>And lo I am with you always; even to the end of the World,</hi> Amen.</p>
+            <p>The power wherewith our Bleſſed Saviour veſted the Apoſtles, was not to ceaſe or expire with them; but as they had received the power of Governing, and Conferring Orders in the Church from Chriſt Jeſus, ſo they conferr'd the ſame on others, that the Church might for ever retain this Apoſtolical power; and thus, in this reſpect our Lord is with his Church to the end of the World.</p>
+            <pb n="3" facs="tcp:151433:4"/>
+            <p>And this Apoſtolical Succeſſion was begun in <hi>Timothy</hi> and <hi>Titus,</hi> the former being Ordained by the Apoſtles, Biſhop of <hi>Epheſus,</hi> the other Biſhop of <hi>Creet;</hi> that they were both inveſted with power of juriſdiction, and conferring Orders; and that though in each Dioceſs there were ma<g ref="char:EOLhyphen"/>ny Presbyters, yet that none had Authority to ordain Elders or Prieſts but they, is moſt manifeſt by Saint <hi>Paul</hi>'s Epiſtles to them both.</p>
+            <p>To propagate this Apoſtolical Succeſſion, <hi>Linus,</hi> by Apoſtolical Conſe<g ref="char:EOLhyphen"/>cration Succeeded the Apoſtles in the See of <hi>Rome; Symeon</hi> Succeeded Saint <hi>James</hi> in the Chair of <hi>Jeruſalem; Anianus</hi> Succeeded Saint <hi>Mark</hi> in the Juriſdiction of the Church of <hi>Alexandria.</hi> And this Succeſſion in the right line from the Apoſtles, to ſecure the Church from Impoſtors and Pretenders, was ſo ſacredly carryed on, and propagated with ſuch cer<g ref="char:EOLhyphen"/>tainty, that Saint <hi>Irenaeus</hi> affirms,<note place="margin">Lib. <hi>3.</hi> adv. Her. c. <hi>3.</hi>
+               </note> he could name all the Succeſſors of the Apoſtolick Churches unto his days.</p>
+            <p>And accordingly, this line of Apoſtolick Succeſſion of Biſhops, hath continued in all Ages without interruption, to this preſent time. Now whoever he be, that is out of this line of Apoſtolick Succeſſion, and ex<g ref="char:EOLhyphen"/>erciſes any Miniſterial Office, without the Commiſſion of Epiſcopal Or<g ref="char:EOLhyphen"/>dination, can be no more or other, than a Lay-Impoſtor, and a Schiſ<g ref="char:EOLhyphen"/>matick. And conſequently, all Societies of Chriſtians, who withdraw themſelves from the Government of their Biſhops, who are the Apoſtles Succeſſors; and from communicating with thoſe Presbyters lawfully ſet over them, by Epiſcopal Ordination and Inſtitution, and frame them<g ref="char:EOLhyphen"/>ſelves into any other kind of Government, are guilty of Schiſm. This <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the true formal Notion of Schiſm, in the ſenſe of the Fathers in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tive Church.</p>
+            <p>Of which more anon.</p>
+            <p>This Church ſo conſtituted and eſtabliſhed to continue to the end of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld; from its Univerſallity was by the Primitive Fathers, called the Catholick Church; and from its Unity the Communion of Saints. Which is now to be conſidered.</p>
+            <p>What this Union and Communion of Saints is? appears by Holy Scrip<g ref="char:EOLhyphen"/>ture, St. <hi>John</hi> 13. v. 35. <hi>By this ſhall all men know, that ye are my Diſci<g ref="char:EOLhyphen"/>ples if ye have love one for another.</hi> Love is the Badge of a Diſciple of Chriſt, and Member of the Catholick Church; but there muſt be more in the command to the Diſciples, to love one another, than commonly the
+<pb n="4" facs="tcp:151433:5"/> acceptation Love hath; for the Chriſtian Religion enjoyns Love and Charity to all men; To Love our Enemies, to pray for them that hate us, and to do good to them that deſpitefully uſe us and perſecute us; is the command of our Bleſſed Saviour, and <hi>Gal.</hi> 6. v. 10. <hi>As we have therefore opertunity let us do good unto all men.</hi> So that this Love which one Diſciple is to have for another, muſt be ſuch as diſtinguiſheth Chrſti<g ref="char:EOLhyphen"/>ans from all other men.</p>
+            <p>Now what can that be, but to love one another as members of the ſame Body, whereof Chriſt is the Head; and what can that be, but to live in Chriſtian Communion and Fellowſhip one with another?</p>
+            <p>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot be the bare loving one another; for there are ſome who are not Chriſtians, who are ſo bountiful and loving towards all men; that if this were the only Charact<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſtical mark of a Chriſtian, they would and muſt paſs for Chriſtians, without believing in Chriſt: And who ſeeth not, that Pyrats and Robbers, and the vileſt of men love one another? So that it is (as before is ſaid) not the bare loving one another, by which men are known to be Chriſtians, but the being admitted by Baptiſm into the Society of the Chriſtian Church, and loving one another in the Com<g ref="char:EOLhyphen"/>munion of that Church; this is that which makes true Chriſtian Charity. Saint <hi>Paul</hi> commands (1 <hi>Cor.</hi> 12.25, 26.) that there be no Schiſm in the Body, but the Members ſhould have the ſame care one for another, and whether one Member ſuffers, all the Members ſuffer with it; or one Member be honored, all the Members rejoyce with it; now ye are the Body of Chriſt, and Members in particular. Chriſtians to love one an<g ref="char:EOLhyphen"/>other, is to love like Members of the ſame Body, to preſerve the Body from all Rents and Schiſms, and to maintain Sympathy and Chri<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Charity in the Communion of Chriſts Body, whereof we are all M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bers. So that Chriſtian Charity unites us to Chriſts Body, and nothin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtian Love and Charity, that doth not unite us in one Body, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one Communion; that is, one external viſible Communion of the Chriſti<g ref="char:EOLhyphen"/>an Church.</p>
+            <p>Thus you ſee, that by the words Chriſtian Love and Charity, ſo much uſed in Scripture, muſt be underſtood the Communion of Saints; and that out of the Communion of Saints, there can be no Chriſtian Charity. And ſo is the ſame thing meant; expreſſed by other words, namely Bro<g ref="char:EOLhyphen"/>therly Love, <hi>Rom.</hi> 10.12. and by the name Brethren. <hi>Heb.</hi> 13. v. 1.
+<pb n="5" facs="tcp:151433:5"/> 
+               <hi>Let brotherly Love continue:</hi> This term Brother was given to none but thoſe who liv'd in Communion with the Church; not the Gnoſticks, who ſeperated from it under pretence of greater Knowledge, nor any who ſe<g ref="char:EOLhyphen"/>parate upon any pretence whatſoever.</p>
+            <p>And a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter the Apoſtles, the Primitive Church did confine the Chriſti<g ref="char:EOLhyphen"/>an Brother-hood to the Communion of the Church; all the Precepts relating to Brotherly Love, either in the Evangeliſts or Apoſtles, ſuppoſe Chriſtians to be Members of the Myſtical Body of Chriſt, that is his C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urch, and to be all United there in full Communion; and this is what t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſtle means to have no Schiſm in the Body: out of all which it appears.</p>
+            <p>Fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thly to aſſent to, and believe all the Articles of Faith, contained in the Apo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>les, <hi>Nicene</hi> and Saint <hi>Athanaſius</hi>'s Creed, allow'd and receiv'd in the Primitive Church; to pertake all of the ſame Table, where we a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pertake of the ſame Body which was broken for us; and of the ſame Blood which was ſhed for us; and to joyn all in the ſame holy Prayers and Supplications, Interceſſions, and giving of thanks; made (as the A<g ref="char:EOLhyphen"/>poſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le expreſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly commands) for all men, to be Subject and Obedient to ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spiritual Rulers and Governors (who have derived their Power and Authority <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the Apoſtles, by a due ſucceſſion to this preſent Age) in all things pertaining to Godly Life, Decency and Order, as the Catho<g ref="char:EOLhyphen"/>licks did in the Primitive times; this is true Chriſtian Charity in the Lan<g ref="char:EOLhyphen"/>guage of the Scriptures, and this is the Communion of Saints.</p>
+            <p>To hold Communion in the Articles of Faith only, or what you call Fundamentals, without any viſible Sign of being in Communion with ſome Church that is a true Member of the Catholick Church, is not ſuf<g ref="char:EOLhyphen"/>ficient to make a Catholick, or one in the Communion of Saints; though without ſuch a Communion of Faith, it is impoſible to be ſo.</p>
+            <p>
+               <hi>Corah</hi> and his Company were of the ſame Creed with <hi>Moſes</hi> and <hi>Aaron,</hi> yet were Schiſmatical wretches, and were puniſhed with a Vengeance. The <hi>Don<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> whom you acknowledge to be Sciſmaticks, held the Funda<g ref="char:EOLhyphen"/>mentals of Religion, but their ſeparate Communion from the Catholick Church, upon pretence of greater purity, &amp; excluding all other Churches as not Cat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ick; this made 'em Schiſmaticks in the judgment of the Fathers in the Catholick Church at that time. So that all particular Churches, who agree with the Primitive Catholick Church in all the Articles of
+<pb n="6" facs="tcp:151433:6"/> Faith; and in the external viſible Worſhip and Service of God, are true Members of the Catholick Church, and in the Communion of Saints and no other.</p>
+            <p>The <hi>Church of England</hi> then, having from the firſt planting of the Goſpel here, retained the Apoſtolick power of Eccleſiaſtical Juriſdicti<g ref="char:EOLhyphen"/>on, and Ordaining Prieſts by an unterrupted Succeſſion of Arch Biſhops and Biſhops, in the right line, from the Apoſtles to this preſent time; and agreeing with, and no way repugnant to the Primitive Catholick Church in Doctrin, Diſcipline and Worſhip, is truly a Member of the Univerſal Catholick Church<g ref="char:punc">▪</g> out of which there is no Communion of Saints.</p>
+            <p>The neceſſary conſequence whereof, is, that they who live within the Juriſdiction of the Church of <hi>England,</hi> and refuſe Communion with her, in the external viſible Worſhip and Service of God; do exclude them<g ref="char:EOLhyphen"/>ſelves from being Members of the Catholick Church, or in the Commu<g ref="char:EOLhyphen"/>nion of Saints; and are, conſequently guilty of Schiſm.</p>
+            <p>The reaſon is plain, becauſe there is no other way for any to hold Communion with the Univerſal Catholick Church, but by holding Communion with the particular Church wherein they live, that Church not being Schiſmatical; all the particular Churches through all the World, being the Members that make up the Myſtical Body of Chriſt, the one Catholick Church.</p>
+            <p>Sir, having ſhewed you as clearly as I can, the true Notion of the Ca<g ref="char:EOLhyphen"/>tholick Church and Communion of Saints: Schiſm is ſo clearly un<g ref="char:EOLhyphen"/>masked, that a man may, though not from the ſame impulſe, yet with as much certainty, pronounce and declare you a Schiſmatick, as the Prophet <hi>Nathan</hi> did King <hi>David</hi>'s Sin, when he ſaid, <hi>Thou art the Man.</hi>
+            </p>
+            <p>For it is moſt manifeſt, that all who pretend Chriſtianity, and wilful<g ref="char:EOLhyphen"/>ly refuſe Communion with the Catholick Church, do cut themſelves off from, and ceaſe to be Members of the Body of Chriſt; for he hath but one Body, that is his Church; and this in the Language of the Scrip<g ref="char:EOLhyphen"/>tures, and the Judgment of the Fathers in the Primitive Times is Schiſm. And this agrees too, with the Nature and Signification of the Word.</p>
+            <pb n="7" facs="tcp:151433:6" rendition="simple:additions"/>
+            <p>Sir, though it be above my Education, yet ſince I undertook your En<g ref="char:EOLhyphen"/>quiry, I have made ſearch, and do give you this following account of theſe Fathers whoſe Judgments are againſt you.</p>
+            <p>St. <hi>Irenaeus</hi> Biſhop of <hi>Lugdunum,</hi>
+               <note place="margin">Lib. <hi>4.</hi> adver. Her. cap. <hi>43.</hi>
+               </note> who was Cotemporary with <hi>Policar<g ref="char:EOLhyphen"/>pus</hi> a Diſciple of St. <hi>John,</hi> (who muſt in Reaſon be allowed to know the Primitive, Apoſtolick notion of Schiſm, better than you, or any who are of your Faction) exhorts all Chriſtians to harken to thoſe Presbyters, who were in the Communion of the Catholick Church, and that they might not be deceived, deſcribes them.</p>
+            <p>
+               <hi>Qua propter is, qui in Eccleſia ſunt Presbyteris obaudire oportet iis, qui Succeſſionem ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent ab Apoſtolis,</hi> &amp;c.</p>
+            <p>Wherefore they are oblig'd to obey thoſe Presbyters, who are within the Pale of the Church, who (as we have ſhown) are the Succeſſors of the Apoſtles, who have received the ſure gift of Truth; together with an Apoſtolical right of Succeſſion, according to the De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree of the Father<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Reliquos vero qui abſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtunt a principali Succeſſione, &amp; quocunque loco colli<g ref="char:EOLhyphen"/>guntar,</hi> &amp;c. As for thoſe who renounce the Apoſtolical Succ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion, and Aſſemble themſelves in any place whatſoever, ſuſpect and eſteem them as Heretical and Damnable Opinions, who flatter themſelves with hope of Lucre and Vain Glory; but as for them who rend and tear in pieces the Unity of the Church, they ſhall receive puniſhment of God, as <hi>Jerobo<g ref="char:EOLhyphen"/>am</hi> did.</p>
+            <p>St. <hi>Ignatius</hi> the Second Biſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p of <hi>Antioch</hi> from St. <hi>Peter,</hi> in his <hi>Ep. ad Tralian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, ad Smyrnen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</hi> and in thoſe to the <hi>Phil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ippians,</hi> &amp;c. frequent<g ref="char:EOLhyphen"/>ly charges 'em to keep in the Unity of the Chriſtian Church, by a regular obedience to the Biſhops, and by Communicating with thoſe Presbyters, who were ſet over them by Authority of Epiſcopal Order: that to diſobey thoſe Biſhops and their Presbyters, and to ſeparate from them, is in thoſe Epiſtles charged with Schiſm.</p>
+            <p>St. <hi>Athanaſius</hi> brands <hi>Iſchyras</hi> for a Schiſmatick, and gives this Reaſon for it; that <hi>Iſchyras</hi> did Uſurp a Miniſterial Authority, without regular Ordination from the Biſhops of the Catholick Church, and gather'd to himſelf a Congregation, ſeparate from the Biſhop of <hi>Alexandria,</hi> in whoſe Province he liv'd.</p>
+            <p>St. <hi>Cyprian, Ep.</hi> 4. <hi>ad populum Carthaginenſem, de quinque Presbyteris;</hi> exhorts them to have no Communion with thoſe who had divided them<g ref="char:EOLhyphen"/>ſelves
+<pb n="8" facs="tcp:151433:7"/> from their Biſhops; aſſuring them, that to be <hi>ſine Epiſcopis,</hi> was to be <hi>extra Eccleſiam.</hi> And in his Book <hi>De <g ref="char:V">Ʋ</g>nitate,</hi> he gives this Notion of Schiſm; <hi>Contemptis Epiſcopis, &amp; Derilictis Dei ſacerd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tibus, conſtitu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re ali<g ref="char:EOLhyphen"/>ud Altare, aut Conventicula diverſa conſtituere.</hi> That it was Schiſm to diſ<g ref="char:EOLhyphen"/>piſe and forſake the Biſhops and Prieſts of God, and to ſet up another Al<g ref="char:EOLhyphen"/>ter; or to ſet up diſtinct Conventicles.</p>
+            <p>Sir, though I pretend not to the Originals, yet having found theſe In<g ref="char:EOLhyphen"/>ſtances produced by men of unqueſtionable Sincerity, and great Learn<g ref="char:EOLhyphen"/>ing; I preſume to preſent you with them. I have more of this kind be<g ref="char:EOLhyphen"/>fore me, but theſe Teſtimonies are ſufficient, to ſhew how different from, and far ſhort your diſcription of Schiſm is, from the Notion of Schiſm the Fathers had in the Primitive times; and that in their Judgment you are Guilty of Schiſm.</p>
+            <p>Sir, you cannot by this time but ſee your Guilt; and though you, as Criminals uſually before our Tribunals, plead not Guilty, ('tis your own phraſe) yet I beſeech you conſider, your Trial muſt be before that Tribu<g ref="char:EOLhyphen"/>nal which cannot be deceived or baſſled; you had better try and judge your ſelf now, that you be not judged. To live in Schiſm you ingeni<g ref="char:EOLhyphen"/>ouſly acknowledge, is a black and hanious Crime (to promote and patro<g ref="char:EOLhyphen"/>nize it as you do, muſt then be a great agravation of it) it is to be out of the Catholick Church and Communion of Saints, out of which there is no ordinary means, nor any firm ground to fix any hope of Salvation; its plain, <hi>Acts</hi> 2.47. <hi>The Lord dayly added to the Church ſuch as ſhould be ſaved;</hi> no being added to the Church, no being ſaved: there is no other way revealed by which you may be ſaved. And it concerns you high<g ref="char:EOLhyphen"/>ly, to conſider how you can anſwer for all thoſe many poor Souls, that you ſeduce into Schiſm, and ſo induſtriouſly keep out of Chriſts Fold. I caution you in all Meekneſs, and Chriſtian Charity; and out of a ſincere deſire of your eternal welfare: and if you have that preparedneſs of mind, that Meekneſs and Sel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-denial, which the Holy Jeſus requires in the Goſ<g ref="char:EOLhyphen"/>pel, you will no longer contend with Fleſh and Blood, but immediately ſurrender your ſelf into the Communion of that Church, where if you will not be wanting to your ſelf, you will find all the ſatisfaction that a Chriſtian can deſire; there being all things exhibited to you that ap<g ref="char:EOLhyphen"/>pertain to Life and Salvation.</p>
+            <div type="answer">
+               <pb n="9" facs="tcp:151433:7"/>
+               <head>Having thus finiſhed what I deſigned, as ſufficient to ſhew you the true Notion of Schiſm, and your miſtake in the Nature of it; I proceed to make ſome Remarks upon your <hi>Brief Enquiry,</hi> &amp;c.</head>
+               <p>THe Scope of all you ſay, till your Inſtance of <hi>Eldad</hi> and <hi>Medad,</hi> a<g ref="char:EOLhyphen"/>mounts to no more, but <hi>that Schiſm is an Arch-Rebel,</hi> &amp;c. <hi>a de<g ref="char:EOLhyphen"/>formed Brat,</hi> &amp;c. <hi>a Crime ſo black, no body will plead Guilty to the Indict<g ref="char:EOLhyphen"/>ment.</hi> And then comes another Law term, <hi>Hue and Cry,</hi> &amp;c. <hi>'tis an hanious Crime, but 'tis very difficult and ſcarce poſſible to find it, it cannot be deſcribed.</hi>
+               </p>
+               <p>All I need ſay to this, is, the difficulty is removed; I have plainly ſhew'd you how to deſcribe it, and ſo to make a true Judgment, who are Guilty, whether they plead Guilty, or not Guilty.</p>
+               <p>The Inſtance of <hi>Eldad</hi> and <hi>Medad,</hi> is nothing to the purpoſe of Schiſm, for, they were not (if I miſtake not) to adminiſter in Holy things; not a<g ref="char:EOLhyphen"/>ny thing of the Prieſt-hood, but that Spirit of Prophecy which they re<g ref="char:EOLhyphen"/>ceived, was to qualifie them for the eaſe of <hi>Moſes</hi> in the Civil Govern<g ref="char:EOLhyphen"/>ment; and a Crime in the State is Sedition, not Schiſm. Yet they did not aſſume that without Divine Authority: and when you can make as ſignal a proof that your Authority is Divine, we will no more blame you for Exerciſing in your <hi>Stable,</hi> then <hi>Moſes</hi> did them, for Prophe<g ref="char:EOLhyphen"/>ſying in the Camp.</p>
+               <p>In Page 8. you ſay, <hi>I cannot believe that the greateſt Worſhipers of the</hi> Diana <hi>of their own Opinions, will be ſo ſottiſh as to brand thoſe for Schiſma<g ref="char:EOLhyphen"/>ticks, who in every</hi> punctilio <hi>of Opinion are not exactly of the ſame Stan<g ref="char:EOLhyphen"/>dard with themſelves.</hi>
+               </p>
+               <p>Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m you mean by <hi>the greateſt Worſhipers of the</hi> Diana <hi>of their own Opinions,</hi> I take not upon me to tell? but if by that ſaucy Language, you mean the Biſhops and the other inferior Clergy of the <hi>Engliſh</hi> Church? I can anſwer for them, that if the <hi>punctilios</hi> of Opinions you mean, do not cauſe a Seperate Communion? they will never cenſure that for Schiſm.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is not Opinions differing in little things (as you call 'em) but the er<g ref="char:EOLhyphen"/>ronious and ſinful Opinions, that tend to Seperation from a truly Ca<g ref="char:EOLhyphen"/>tholick Church, that they of our Church (to uſe your words) brand with Schiſm; men may differ in Opinion in ſpeculative things,
+<pb n="10" facs="tcp:151433:8"/> and be Innocent, but Opinions that break the Communion of Saints, are Schiſm.</p>
+               <p>Pardon me if I give you a pleaſant Inſtance; your Father's Opinion was, that it was beſt to put you to be a Lawyers, or an Attorney's Clerk (as I have heard) my Uncle who was <hi>(in loco parentis)</hi> my Guardian, his Opinion was, that it was beſt to put me an Aprentice to a Mercer; here were different Opinions or Apprehenſions, but no Schiſm.</p>
+               <p>In your Ninth Page, you put a fair Queſtion, enough to make the World believe you to be a man of great ſincerity; viz. <hi>Whether a diver<g ref="char:EOLhyphen"/>ſity or ſep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ration of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ommunion, be the</hi> fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>malis ratio <hi>of Schiſm.</hi> I affirm and have prov'd it is: but you anſwer it with great partiality, making a moſt unnatural Expoſition of the Apoſtles words that can be; 1 <hi>Cor.</hi> 1 10.<note place="margin">Page 10.</note> 
+                  <hi>I beſeech you Brethren, that there be no diviſions among you.</hi> (which you rightly ſay, is in the Margin Schiſms) and pretend upon Enquiry to find what the Schiſm is, by the next following Exhortation of the Apoſtle; <hi>That ye all ſpeak the ſame thin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> (which you expound) viz. <hi>In the Funda<g ref="char:EOLhyphen"/>mental Doctrines of Chriſtianity, for in little things it can never be made a duty to be of the ſame Opinion, ſince it is m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lly impoſſible.</hi> And you name <hi>Eſtius,</hi> but do not make him vouch for your Expoſition; if his Ex<g ref="char:EOLhyphen"/>poſition agrees with yours (which I rather think it does not) it cannot be the Apoſtles meaning: for you ſay, <hi>Obſerve, he does not oblige us to think the ſame things,</hi> i. e. <hi>In your preaching and conver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, ſpeak of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe things only wherein you are agreed; and f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r thoſe things where<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n you differ, do not fall out and fight about them, but love one another notwithſtanding.</hi>
+               </p>
+               <p>To this I Anſwer.</p>
+               <p>St. <hi>Paul</hi> is mightily obliged to you for this Expoſition; you ſay, he doth not oblige us to think the ſame things: but though your thoughts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e diverſe, yet ſpeak the ſame things; what is this? but that men may think one thing and ſpeak another; (this does not agree with the ſincerity of Saint <hi>Paul</hi>) for this is down right Hypocriſie and Knavery; I can make nothing elſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'t.</p>
+               <p>But you think to make it Orthodox by an i. e. <hi>In your preaching and converſe, ſpeak thoſe things only wherein you are agreed,</hi> &amp;c.</p>
+               <p>This Doctrine were it known, would reconcile the World; this would merit a Diſpenſation at <hi>Rome,</hi> you may be admitted there upon theſe terms; if in your Preaching and Converſe you will ſpeak of nothing but
+<pb n="11" facs="tcp:151433:8"/> wherein you are all agreed. The Pope, they ſay, is commonly an old <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivil Gentleman, and this new Doctrine of yours, tending ſo much to Peace, and to the ſtoping of the mouths of Hereticks, who are apt to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peak of things wherein they are not all agreed; would move him to think of ſome preferment for you. But if they at <hi>Rome</hi> ſhould prove ſo inhu<g ref="char:EOLhyphen"/>manely moroſe and ſullen, as to make your Journey thither unfortunate, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his Doctrine cannot fail of entertainment at <hi>Conſtantinople;</hi> the Mer<g ref="char:EOLhyphen"/>chants who trade thither, will aſſure you, that the Mahomitans are ve<g ref="char:EOLhyphen"/>ry obliging to all thoſe, who preach and ſay nothing in converſe, but wherein all are agreed; and you being withal a great abhorrer of Popiſh deluſions, they will <hi>nemine contradicente,</hi> heartily agree with you there<g ref="char:EOLhyphen"/>in; and you being a Miniſter too, as you ſay in your <hi>Enquiry, page</hi> 27. <hi>And as ſuch abliged to preach, and to trade with that Talent you have re<g ref="char:EOLhyphen"/>ceived</hi> (or you ſay) <hi>there will be an uncomfortable account ſhortly; eſpecially</hi> (ſay you) <hi>if we look abroad, and conſider how the apparent neceſſities of pre<g ref="char:EOLhyphen"/>cious Souls, calls for our utmoſt diligence.</hi>
+               </p>
+               <p>Sir, there are abroad at <hi>Conſtantinople</hi> abundance of precious Souls, who want your diligence: Now you, who ſay nothing in your preaching and converſe, but wherein all are agreed, will oblige 'em to hear you, and ſo you will gain an oppertunity to preach your great Goſpel Truths to 'em, among whom there's nothing ſo much wanting; one Voyage of you, and all your Brethren with your Talents thither, could not fail of great improvement; that place totally wanting you, and we having not nere ſo great occaſion, or neceſſity for you here; it would look like a real ſence of your Duty, if you would Imbark thither, to take care of the ma<g ref="char:EOLhyphen"/>ny precious Souls there, who are like to miſcary for want of you: And pray conſider, our Church-men are ſo invincibly lazy, they'l never un<g ref="char:EOLhyphen"/>dertake it; and if ſome of them ſhould have the Courage? alas, they are ſo dull, it would be to no purpoſe: You are much more qualify'd for it, who by Inſpiration hold forth with ſuch life and vigour, ſo much more powerful, that the ſucceſs could not fail in you; and beſide all this, there is no reaſon to fear, that one Soul here would periſh by your ab<g ref="char:EOLhyphen"/>ſence. This Doctine of yours, juſtly deſerves this Harangue.</p>
+               <p>But does not this Expoſition of yours, barr all reaſoning and leſſen the uſe and power of preaching, one main end and deſign whereof, is to con<g ref="char:EOLhyphen"/>vince men of error, and ſo to Unite their minds and affections, by Unit<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:151433:9"/> their Judgments and Underſtanding; you ſay not one word of Union and Communion, which is moſt ſtrictly enjoyned in every Sentence in the Exhortation; That there be no Diviſions or Schiſms, which by the other Sentences, the Apoſtle tells 'em how to prevent, <hi>(viz.)</hi> that you all ſpeak the ſame things, that ye be perfectly joyn'd together in the ſame mind, and in the ſame judgment; now it's impoſſible for people that ſpeak the ſame things, and are perfectly joyn'd together in the ſame mind, and in the ſame judgment, to have any Diviſions or Schiſms. That learned and pious Doctor in our Church, Doctor <hi>Hammond,</hi> Familiar in Fathers and Councils, hath this Paraphraſe upon this Text: <hi>That, therefore which I firſt exhort you to, and that with all earneſtneſs as poſſible (as the prime addit on of theſe gifts, and graces that are among you) is this, that ye all teach the ſame Doctrine, and nouriſh Charity and <g ref="char:V">Ʋ</g>nity; that there be no di<g ref="char:EOLhyphen"/>viſions in the Churches, but that ye be compacted, and <g ref="char:V">Ʋ</g>nited as Members of the ſame Body, in the ſame belief and affection.</hi> Is not this quite different from your Expoſition? you take off the force and efficacy of the Apoſtle's Exhortation to Unity, purpoſly to excuſe your Schiſm; is any thing more demonſtrative in the World, than that your practice is quite con<g ref="char:EOLhyphen"/>trary to this Exhortation; who have ſet up a Communion ſeparate from the Church of God, eſtabliſh'd in this Kingdom, both by Divine and Ci<g ref="char:EOLhyphen"/>vil Sanction.</p>
+               <p>You are unlucky in your Expoſition, very wide from the mark; and it can never fare otherwiſe with you, while you live in Schiſm; it being the Nature of Schiſm to hurry men into a thouſand errors.</p>
+               <p>Again in the former Paragraph, <hi>That ye all ſpeak the ſame things,</hi> viz. <hi>In the Fundamental Doctrines of Chriſtianity, for</hi> (ſay you) <hi>in little things it can never be made a duty to be of the ſame Opinion, ſince it is morally im<g ref="char:EOLhyphen"/>poſſible.</hi> I muſt here ſay again what I have ſaid; that different Opinions in meer Notions and Speculations, or any differing Opinions that break not Communion, are not here meant; for ſo men may differ and not be guilty of Schiſm: But if you mean by morally impoſſible, that it is im<g ref="char:EOLhyphen"/>poſſible for Chriſtians to be perfectly joyned together in the ſame mind, and in the ſame Judgment (as the Apoſtles exhorts) ſo, as to maintain U<g ref="char:EOLhyphen"/>nity, and prevent Schiſm in the Church; either the Apoſtles Exhortation is to no p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>poſe and effect, or your inſinuation very vain. You go on, that ye be perfectly joyned together with the ſame mind, and in the ſame
+<pb n="13" facs="tcp:151433:9"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udgment (which ſay you) muſt be underſtood of a ſerious endeavour af<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r it, for otherwiſe a perfect conjunction muſt be reſerved for a world of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verlaſting perfection.</p>
+               <p>Sir, are you ſo ſelf dignify'd (to uſe your own words) as to be a Teach<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of Saints, and know not, that a perfect Conjunction in the Catholick Church, and Communion of Saints, is required of all thoſe who are to <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e to the world of everlaſting perfection?</p>
+               <p>Your 11, 12, and 13 pages, are filled with an Enquiry of the <hi>Corin<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hians</hi> miſcari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge; you ſay, that <hi>Clemens Roman<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, in his famous Epiſtle to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rinthians, <hi>ſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l calls Schiſms contentions,</hi> which I believe is true. For <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chiſm is the Mother of Contention.</p>
+               <p>You find that the <hi>Corinthians</hi> were divided in their Opinions, about <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Miniſters, one cries <hi>I am of Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l,</hi> as more Edifying; another cries <hi>am of Apollos,</hi> and another <hi>I am of C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phas;</hi> this you ſay, did not make <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Schiſm; for ſay you, <hi>Why might not each go where he might be moſt edi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d?</hi> but you ſay the Schiſm was, <hi>in that they Sacrificed Chriſtian Love and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>harity;</hi> and after you ſay a great deal to little purpoſe. For,</p>
+               <p>Its very plain, the <hi>Corinthians</hi> were accuſed of that you call Schiſm, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y for preferring, or admiring one Miniſter above another, though <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dification was the pretence, and not for breach of Communion, for with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hichſoever they Communicated, it was one and the ſame Communion; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Saint <hi>Paul</hi> and Chriſt were not divided, nor were either of the other <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivided from Chriſt, their Communion was the ſame, though their Cures <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere ſeveral; ſo that there was no reaſon (as you impertinently ſay) to ſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence any of them, for in them there was no Schiſm, nor any blame. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut ſay you, <hi>the w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y of Curing this Schiſm was not to ſilence</hi> Apollos <hi>and</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ephas, <hi>that they might all be of</hi> Paul, and here you make St. <hi>Paul</hi> ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art of amends for your former Scandalous Expoſition, in ſaying, <hi>that he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>refered Souls S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lvation before his own Credit.</hi>
+               </p>
+               <p>How impertinently do you ſay, the way to Cure this Schiſm <hi>was not to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lence</hi> Apollos, &amp;c. As if to ſilence you, that your followers may come <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Church, were as illegal as to have ſilenced them: Sir there is a vaſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifference between you, and they, who are Paſtors and Miniſters of Chriſt; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey are the Stewards of the Myſteries of God, and the Miniſters of Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onciliation, and are made ſo by Apoſtolical Power; of them our Bleſſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aviour ſaith (St. <hi>John</hi> 10. v. 2) thus, <hi>He that entreth in by the door, is the
+<pb n="12" facs="tcp:151433:10"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="13" facs="tcp:151433:10"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="12" facs="tcp:151433:11"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="13" facs="tcp:151433:11"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="14" facs="tcp:151433:12"/> Shepherd of the Sheep;</hi> but ſuch as you, who climb up ſome other way, our Saviour (in the 1 v.) calls a Thief and a Robber.</p>
+               <p>Had <hi>Apollos</hi> and <hi>Cephas</hi> been as diſorderly and Schiſmatical as you? St. <hi>Paul</hi> would in all probability have exerciſed his Apoſtolical Power, and have ſilenced them as the Cure; and it is more than probable, that the Schiſm which you maintain, would receive a Cure, were you, and all ſuch ſilenced and ſuppreſt.</p>
+               <p>In your Recipe for the Cure of Schiſm, one Ingredient is; <hi>That they walk all the ſame way, though they trace different paths,</hi> (your falacy and equivocation in this is very viſible) for here is nothing like a different path, it is all one way, and one path; they were all United in the ſame Com<g ref="char:EOLhyphen"/>munion: But you cunningly inſinuate this, merely to delude the igno<g ref="char:EOLhyphen"/>rant and undiſcerning, by perſwading them, that your Conventicle is the ſame way with the Church; only (as you call it) <hi>a different path:</hi> which is no other than Schiſmatical meeting. So your cure of Schiſm is to con<g ref="char:EOLhyphen"/>tinue in Schiſm. You are a rare Spiritual Phiſitian.</p>
+               <p>And then to bring up the rear, you have this rare Inference, viz. <hi>It ap<g ref="char:EOLhyphen"/>pears that narrow Spiritedneſs</hi> (which is a very improper expreſſion) <hi>which confines Religion and the Church, to our way and party whatever it is, to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> condemning of others that differ from us in little things, is the bain of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſtian Church.</hi> And to make this as true as the Goſpel, you ſet down a Latin Proverb; <hi>hinc illae lachrymae.</hi>
+               </p>
+               <p>Sir, Religion is the bond of Unity; did you ever know Religion with out Bounds, and Rules for all of that Religion to be confined to, even to a Punctilio, and is it narrow Spiritedneſs to obſerve thoſe Rules, and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be confin'd within the Bounds of Religion? is it a Schiſmaticating Princi<g ref="char:EOLunhyphen"/>ple to make a true Judgement of Schiſm (which you call an <hi>Arch-Rebe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in Chriſts Kingdom) and cenſure them who are Guilty of it?</p>
+               <p>Have not all they of your Conventiling Communion Rules given them (though of your own parties making) by which they are confin'd to yours, and diſtinguiſhable from all other different Communions? If you or any other of the Presbyterian Communion come to <hi>London,</hi> or any other par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of this Kingdom; do not you hold exactly the ſame way of Worſhip a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you have here? (ſure you cannot deny this) and is not this to confin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your Sect to your own way and Communion? Why then do you reproach<g ref="char:EOLunhyphen"/>fully call this <hi>narrow Spiritedneſs</hi> in others, and practice it your ſelves.</p>
+               <pb n="15" facs="tcp:151433:12"/>
+               <p>You ſay, <hi>condemning of others that differ in little things, is the great Schiſmaticating principle which hath been ſo much the bane of the Chriſtian Church:</hi> hinc illae lacrymae.</p>
+               <p>It muſt rather be the ſetting up of your Seperate Communions, that hath been ſo much the bane of this Chriſtian Church. I am ſure it was the Puritanical Faction, who in their Conventicles blew up the Trumpet of <hi>Sedition</hi> and <hi>Rebellion,</hi> and overturned the Government of both <hi>Church</hi> and <hi>State;</hi> and through pretended Sanctity and Goſpel Zeal, perpetrated the moſt helliſh Actions that ever were ſince <hi>Adam.</hi> Then was Violence under the colour of Zeal; the Note and Badge of Sanctity, Loyalty to a Prince of incomparable piety, and faithfulneſs to the moſt pure Chriſtian Church, was damn'd for malignancy: I am ſure you are of the ſame Tribe; theſe were the men, by whom the Church was not on<g ref="char:EOLhyphen"/>ly rent in Pieces, but for a time (which was as long as they were in Power) rooted out; here we may truly ſay <hi>hinc illae lacrymae,</hi> Mr. <hi>H.</hi> I lived in the time when through <hi>Blood</hi> and <hi>Rebellion,</hi> your Party gave Laws and Rules to all; then, all that were of our Church were not Cenſured for little things, but Branded for Reprobates; Excluded from Mercy, all the Clergy, not only Silenced, but Sequeſtred, and many Impriſoned and ſtarved; it was not much worſe with Chriſtians under <hi>Nero</hi> and <hi>Diocleſian,</hi> and all this for not Conforming to your Novel Diſcipline; yet the gentle Penalties of the Royal Laws, which were made for Peace and Unity, are cry'd up by you and your Party, for ſuch a Perſecution as never was. Alas Sir, for all your pretended Meekneſs and Charity now, you that retain the ſame principles, would certainly repeat the ſame miſeries, had you the ſame power, <hi>which God of his Infinite mercy for ever prevent;</hi> Amen,</p>
+               <p>Now I return, and try whether from your Inſtance in the <hi>Corinthians,</hi> you could not have found a far more genuin concluſion, and more agree<g ref="char:EOLhyphen"/>ing with the Apoſtles meaning.</p>
+               <p>If but the having one Miniſter of Chriſt, though rightly ordained in admiration above another, to the begetting Contention, incur the Guilt of Schiſm, and is no way to be Tollerated in the Church of God?</p>
+               <p>How much more am I a Schiſmatick, who am not only, not rightly ordained, but keep up a Communion ſeperate from the Church of God,
+<pb n="16" facs="tcp:151433:13"/> in the Kingdom where I live, the Argument will hold <hi>a Minori ad Majus</hi> If contentions about admiring one Miniſter above another, be Schiſm then ſure to maintain a Separate Communion, which makes Contention much hotter, fiercer and more numerous, muſt much more be Schiſm<g ref="char:punc">▪</g>
+               </p>
+               <p>In Page 15. you ſay, <hi>That's Schiſm, which breaks or ſlackens the bon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> by which the Membe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s are knit together.</hi> In this you are Orthodox, but you keep not to it; for you ſay,</p>
+               <p>
+                  <hi>Now that bond is not an Act of <g ref="char:V">Ʋ</g>niformity in point of Communion in the ſame Modes and Ceremonies, but true Love and Charity in point of Af<g ref="char:EOLhyphen"/>fection.</hi>
+               </p>
+               <p>The breach of Communion, be it for want of Uniformity in the ſame Modes and Ceremonies, or what you will, (that is not ſinful) does cer<g ref="char:EOLhyphen"/>tainly (to uſe your own words) <hi>Break and Slacken the Bond by which the Members are knit together;</hi> for to divide in point of Communion, is to dis-unite and unknit the Members; and conſequently the Bond, be it (as you ſay) <hi>Love and Charity,</hi> or the Unity of the Spirit, or what you pleaſe, is broken; and this you moſt truly ſay is Schiſm; and yet you ſay, <hi>that the Bond is not an Act of <g ref="char:V">Ʋ</g>niformity,</hi> &amp;c. <hi>in point of Communi<g ref="char:EOLhyphen"/>on;</hi> which is a manifeſt contradiction.</p>
+               <p>Now all theſe erroneous and miſerably miſtaken Expoſitions of Scrip<g ref="char:EOLhyphen"/>ture, and inferences equally falſe, are the Foundation upon which you erect your Deſcription of Schiſm: and which at preſent you ap<g ref="char:EOLhyphen"/>prehend, is the true Scriptural Notion of Schiſm; which that all who read theſe papers may judge of, I here Inſert.</p>
+               <p>
+                  <q>Schiſm is an Uncharitable Diſtance, Diviſion, or Alienation of Af<g ref="char:EOLhyphen"/>fection, among thoſe who are called Chriſtians, and agree in the Funda<g ref="char:EOLhyphen"/>mentals, of Religion, occaſioned by their different apprehenſions about little things.</q>
+               </p>
+               <p>You agree with our Church in all that you call Fundamentals, and your Diſtance and Diviſion you acknowledge, is for little things, that it is an Uncharitable Diſtance, and Diviſion is undeniable; for the breach of Chriſtian Communion, is certainly the breach of Chriſtian Charity: here you are Condemned out of your own mouth.</p>
+               <p>But how far different your Deſcription is from the Primitive Catho<g ref="char:EOLhyphen"/>lick Notion of Schiſm, ſufficiently appears to you, by what I have ſhew<g ref="char:EOLhyphen"/>ed before.</p>
+               <pb n="17" facs="tcp:151433:13"/>
+               <p>You mention not Seperating, or withdrawing from the Communion of the Church; which is moſt Infamous and Notorious Schiſm, and con<g ref="char:EOLhyphen"/>fine it only to breach of Charity, which (though always a great fault) yet in many caſes amounts not to Schiſm.</p>
+               <p>I now take notice of your Fourth Inference, page 23.</p>
+               <p>
+                  <hi>If this be Schiſm, then there may be Separation of Communion, where there is no Schiſm,</hi> (ſay you) <hi>for thus we all agree, that there may be dif<g ref="char:EOLhyphen"/>ference of apprehenſion, and yet no Schiſm, provided it do not eat out Chriſti<g ref="char:EOLhyphen"/>an Love; but be managed amicably, as betwixt the</hi> Arminians <hi>and the</hi> Calviniſts <hi>in the Church of</hi> England.</p>
+               <p>What ſtrange kind of Reaſoning is this?</p>
+               <p>If breach of Charity be Schiſm? then ſeparate Communion may be with<g ref="char:EOLhyphen"/>out Schiſm; and to prove this, you inſtance in the difference between the <hi>Arminians</hi> and <hi>Calviniſts</hi> in the Church of <hi>England,</hi> who differed in Opini<g ref="char:EOLhyphen"/>ons; the former Aſſerting the Freedom or Liberty of the Will, the other Election and Reprobation; here was no ſeparation of the Communion, or denial of any Article of the Church; (for both ſign'd the Articles) nor from Communion one with another? both parties ſubmitting to the Uniformi<g ref="char:EOLhyphen"/>ty required; ſo you bring an inſtance to juſtifie ſeperate Communion from Schiſm, where there was no ſeperate Communion at all; ſee how illogical your reaſoning is?</p>
+               <p>
+                  <hi>If breach of Charity be Schiſm, then there may be ſeparate Communion with<g ref="char:EOLhyphen"/>out Schiſm.</hi> Would any man of Sence, but you, have made ſuch a Con<g ref="char:EOLhyphen"/>cluſion from ſuch premiſſes; would not the Argument have run truer thus?</p>
+               <p>
+                  <hi>If breach of Charity be Schiſm, then ſeparate Communion is much more Schiſm.</hi>
+               </p>
+               <p>But breach of Charity is Schiſm.</p>
+               <p>Therefore, <hi>&amp;c.</hi> I am forced here to ſay what I have ſaid before, that it is moſt manifeſt, that a ſeparate Communion, unleſs from a Schiſmatical Church, is in it ſelf the agravation and extremity of Schiſm, and is na<g ref="char:EOLhyphen"/>turally and infallibly the cauſe of the higheſt breaches of Charity, and of the hotteſt and fierceſt contentions, which you own to be Schiſm.</p>
+               <p>But ſuppoſe there were ſome thing in our Conſtitutions that needed a<g ref="char:EOLhyphen"/>mendment or alteration, yet every defect and ſuppoſed Corruption in a Church, is not a ſufficient ground for Separation or warrant e<g ref="char:EOLhyphen"/>nough to tear it in pieces. Hear Mr. <hi>Calvins</hi> Opinion, he ſaith, where ever the Word of God is duely Preached, and Reverent<g ref="char:EOLhyphen"/>ly
+<pb n="18" facs="tcp:151433:14"/> attended to, and the true uſe of the Sacraments kept up; there is an appearance of a true Church, whoſe Authority no man may diſpiſe, or reject its admonitions, or reſiſt its Councils; or ſet at nought its Diſci<g ref="char:EOLhyphen"/>pline, much leſs ſeparate from it, and Violate its Unity ſo long as it continues in the true uſe of the Word and Sacraments, though other<g ref="char:EOLhyphen"/>wiſe it be over-run with many blemiſhes and corruptions. <hi>Inſt. l.</hi> 4. <hi>Sect.</hi> 10, 11; &amp; 12. You ſee how Mr. <hi>Calvin</hi> is againſt you, from whom the Original of your way had its date.</p>
+               <p>I here make it my hearty requeſt to you, that you will read the Letters of the Reformed Divines of Foreign Countries, to the Biſhop of <hi>London,</hi> viz.</p>
+               <p>That, of Monſieur <hi>le Moyne,</hi> Profeſſor of Divinity at <hi>Leyden,</hi> concern<g ref="char:EOLhyphen"/>ing the Nature of our Differences, and the unlawfulneſs of Separation from the <hi>Church</hi> of <hi>England,</hi>
+               </p>
+               <p>That, of Monſieur <hi>de Langle,</hi> a Preacher of the Reformed Church-meeting, at <hi>Charenton</hi> near <hi>Paris.</hi> And alſo,</p>
+               <p>That of Monſieur <hi>Claude,</hi> all of the ſame Subject; you have them all at the end of Dr. <hi>Stillingfleet's <g ref="char:V">Ʋ</g>nreaſonableneſs of Separation.</hi> They all conclude you under Schiſm.</p>
+               <p>In Page the 20th. towards the end, you have theſe words, (I need not mention the occaſion having diſpatched that before) <hi>Whether they be Epiſ<g ref="char:EOLhyphen"/>copal, Presbyterian, Independent, or by what Name or Title ſoever they be ſelf-dignified or diſtinguiſhed;</hi> you cannot forbear not only Uncharitable<g ref="char:EOLhyphen"/>neſs, but Hatred and Malice againſt the Clergy; and conſequently the whole Church, you Condemn Bitterneſs, and Uncharitableneſs, as Schiſm in all other; and where can it be found more apparently than in you, in theſe words? <hi>By what Name or Title ſoever they be ſelf-dignified or diſtin<g ref="char:EOLhyphen"/>guiſhed;</hi> theſe are not Applicable to your Party, leſs to the Anabaptiſts; then they muſt be ſpoken of the Arch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Biſhops and Biſhops of our Church, whom the King always nominates, and they are accordingly truly Conſe<g ref="char:EOLhyphen"/>crated to be ſo; Orders inſtituted by the Apoſtles in the Church of Chriſt, and from them continued to this preſent age, without interruption 1 <hi>Cor.</hi> 12, 28. <hi>And God hath ſet ſome in the Church; firſt Apoſtles, ſecondarily Prophets; thirdly Teachers,</hi> &amp;c. <hi>helps in Government,</hi> &amp;c. God hath ſet them up, and you revile them, as men ſetting up, and dignifieing themſelves, is this your Charity; what more Diabolical Spirit can there be in any Sect
+<pb n="19" facs="tcp:151433:14"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mong men, than thus to diſpiſe and ſet at nought, thoſe who are digni<g ref="char:EOLhyphen"/>fied by Divine Right and Authority, to Rule and Govern in the Church of God? you make it a Schiſmaticating Principle to cenſure you of Un<g ref="char:EOLhyphen"/>charitableneſs, and Bitterneſs, who have even in this, rank'd your ſelf a<g ref="char:EOLhyphen"/>mong thoſe whom the Apoſtle St. <hi>Jude</hi> (in his Epiſtle verſe 28.) calls <hi>filthy Dreamers, who ſpeak evil of Dignities.</hi> Yet ſay you.</p>
+               <p>
+                  <hi>But to come a little cloſer, the Meetings of the Diſſenters (though now bleſſed be God permitted, and allowed by the Law of the Land, yet) are commonly Charged with being Schiſmatical; the great Out-cry is, that we leave the Church; and the <g ref="char:V">Ʋ</g>nthinking Mobile, who are ſo well taught, as to know no other Churches, but the Publick places of Worſhip, are eaſily induced to be<g ref="char:EOLhyphen"/>lieve it; as if it were Schiſm to Worſhip God any where elſe, let the Wor<g ref="char:EOLhyphen"/>ſhip there be what it will,</hi> (you go on) <hi>thoſe who will allow themſelves the Liberty of an <g ref="char:V">Ʋ</g>nprejudiced thought, cannot but ſee the difference ſo ſmall, that as long as we believe the ſame Chriſtian Faith, and agree in the ſame Proteſtant abhorrence of Papal Deluſions; we may eaſily be looked upon, as one and the ſame Church, as well as two ſeveral Pariſh Churches may, eſ<g ref="char:EOLhyphen"/>pecially being <g ref="char:V">Ʋ</g>nited under the Care and Protection of one Proteſtant King, and Members of the ſame Proteſtant Common-Wealth.</hi>
+               </p>
+               <p>Sir, Indulgence (which carries the Title of the Act) always imploys a defect, if not a Crime; you ſay, you are permitted and allowed, though the Act is no more than Indulgence, which never ſignifies approbation or likeing; all you have by it is but for the hardneſs of your Hearts; as our Bleſſed Saviour ſays, of the Indulgence of the <hi>Jews,</hi> for putting a<g ref="char:EOLhyphen"/>way their Wives by a Bill of Divorſe; to which our Saviour ſaith <hi>Mat.</hi> 19 8. <hi>But in the beginning it was not ſo.</hi> Their Plea for that Indulgence is diſtroyed by an Argument drawn from Antiquity. I have the like Argument for you; in the Primitive Church it was not ſo, no Indulgence for ſeperate Communion, upon any pretence whatſoever; you have one, and I give my reaſon why I wiſh no ill effects follow it.</p>
+               <p>In the year 1560. Mr. <hi>J. Calvin</hi> by his Letter to Arch Biſhop <hi>Grindal,</hi> ſolicites him to obtain the favour of the Queen, to Aſſign; and at his requeſt, ſhe did Aſſign the Church of Saint <hi>Anthony</hi> in <hi>London,</hi> for ſome <hi>French</hi> exiles then there, and were of Mr. <hi>Calvins</hi> Principle, to meet in, and with Licenſe to ſet up the <hi>Genevian</hi> Diſcipline, and a Form of Pray<g ref="char:EOLhyphen"/>er which had no Conformity with the <hi>Engliſh</hi> Liturgy, which proved
+<pb n="20" facs="tcp:151433:15" rendition="simple:additions"/> in the event a deſign expedient of <hi>Calvins,</hi> for advancing Presbitery in the room of Epiſcopacy.</p>
+               <p>Upon this <hi>Toleration,</hi> their numbers ſo increaſed, that in the year 1568. they broke out into open Schiſm, chooſing to meet in <hi>Barns</hi> and <hi>Fields,</hi> rather than in <hi>Churches,</hi> with their Brethren as formerly; teaching 'twas impious to hold any Correſpondence with the Conforming Churches. Upon this very occaſion <hi>(viz.)</hi> the Queens Toleration, and particularly her Indulging the <hi>Genevian</hi> Diſcipline, within 8 years time, their Mem<g ref="char:EOLhyphen"/>bers ſo increaſed, and their Inſolence alſo; that the Queen plainly ſaw (as her own words were) that ſuch were the reſtleſs Spirits of that Factious people, that here was no quietneſs to be expected from them, till they were utterly ſuppreſt: In order to which ſhe called a Parliament in 1592. wherein ſtrict Laws were made againſt them, and executed accordingly; <hi>Barrow, Penry,</hi> and <hi>Burchet,</hi> were hanged for ſuch Nonconformity-prin<g ref="char:EOLhyphen"/>ciples as were Treaſonable; and by thoſe ſharp Laws made againſt them, the Ring leaders were humbled, and the whole Body of 'em brought to a good degree of Quietneſs at that time and held dureing her Reign.</p>
+               <p>I heartily wiſh that your <hi>Great Champion</hi> Mr. <hi>Baxter,</hi> prove not a true <hi>Prophet,</hi> who in his <hi>Epiſtle Dedicatory,</hi> (before his Treatiſe of <hi>Self-denial</hi>) to Coll. <hi>James Berrey,</hi> then one of the Council of State; calls <hi>Toleration</hi> Englands <hi>miſery; a Liberty for drawing men to Hell; a wicked damning Liberty; a Strengthening the Party Tolerated; a giving way for their Power; a giving a way our own Power; a preparing Faggots for our own Martirdom.</hi> And he repreſents Tolerating Magiſtrates, as a ſort of men that Rule as though they were uncertain whether there were a Heaven or a Hell. Thus he,</p>
+               <p>By the ſtory in the Queen, you ſee what uſe your Predeceſſors, thoſe great pretenders of Sanctity, made of their Indulgence; and if you tread their Paths, you may fall into the like miſchiefs; and I will tell you why you can never ſtand right with the Government; becauſe your Principles carry you to the rooting out of Epiſcopacy, which is the Pillar of Eccleſiaſtical Government. And we ſee by Mr. <hi>Baxter,</hi> with what Vigor and Zeal Uniformity will then be held forth in all your Pulpits.</p>
+               <pb n="21" facs="tcp:151433:15"/>
+               <p>I now return to the remainder of your Paragraph. You ſay, <hi>the meet<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng of the Diſſenters</hi> (and after a Parantheſis) <hi>are commonly charged with be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng Sch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſmatical; the great out-cry is, that we leave the Church, and the un<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hanking Mobile, who are ſo well taught as to know no other Churches, but the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ublick places of Worſhip, are eaſily enduced to believe it, as if it were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chiſm to Worſhip God any where elſe, let the Worſhip there be what it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill.</hi>
+               </p>
+               <p>You cannot be without the Leaven of Reflection, for all your pretend<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Candor and Charity, is not this highly reproachful? to ſay that the Unthinking Mobile, <hi>&amp;c.</hi> are eaſily induced to believe it, (that is) that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our Meeting is Schiſm; What can you mean but the Paſtors and Mini<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters of our Church, ſeduce the Mobile to believe that which is falſe, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he unthinking Mobile are eaſily enduced? This is a pritty falacy, by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his you would perſwade all (if you could) that none but the Mobile believe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou are Schiſmaticks; all the Privy Council, the Judges, Univerſities, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Mageſtrates, and all above the Mobile have no ſuch thoughts; this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a random Shot: Pray how many beſides the unthinking Mobile can you boaſt of in your Communion? God knows you have too much to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oaſt of, if you have any; however your boaſting in this, is much more vain, than God be thanked you have real cauſe for; and all thoſe Poor Souls you have Captivated, and lead aſtray out of Chriſts Fould, are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnorant, or Giddy-minded; and it is done under pretence of more Spiritual Edification and Holineſs, which is but the Counterfeit of them which glitters with greater Luſtre (it being the Nature of all Counterfeit things ſo to do) to the Undeſcerning and Ignorant, than the real: juſt as Quack Mountebanks, with cunning deviſed Words, and Fables, per<g ref="char:EOLhyphen"/>ſwade the Moible, that their Medicines have much more the Virtue of Healing, and that their skill and judgement far ſurmounts the truly Learned and Judicious Phiſitians: But God I hope will conſider their ſimplicity, and have mercy on them; though I wiſh they would con<g ref="char:EOLhyphen"/>ſider what our Saviour ſaith, <hi>That if the Blind lead the Blind, both fall into the Ditch.</hi> Then you ſay, <hi>as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f it were Schiſm to Worſhip God any where elſe, let the Worſhip there be what it will.</hi>
+               </p>
+               <pb n="22" facs="tcp:151433:16"/>
+               <p>It would occaſion too long a diſcourſe to purſue; I will therefore only mention it. The <hi>Samaritans</hi> in the time of our Saviour were as fully perſwaded, that their Altar and Worſhip was as true and acceptable to God as that at <hi>Jeruſalem,</hi> as you are, that yours is more pure than that of our Church; yet our Bleſſed Saviour tells the Woman, St. <hi>John</hi> 4. <hi>v.</hi> 22. <hi>Ye Worſhip ye know not what, we</hi> (ſaith he) <hi>know what we Wor<g ref="char:EOLhyphen"/>ſhip,</hi> &amp;c. The true reaſon why the <hi>Samaritans</hi> Worſhiped they knew not what; was, becauſe it was a ſeparate Altar, and a ſeparate Wor<g ref="char:EOLhyphen"/>ſhip from that at <hi>Jeruſalem;</hi> this was Schiſm, and had the ſame ef<g ref="char:EOLhyphen"/>fects, as your ſeparate Communion hath in this Kingdom, <hi>(viz.)</hi> Con<g ref="char:EOLhyphen"/>tentions, breach of Charity, alienation of Affection, <hi>&amp;c.</hi>
+               </p>
+               <p>And I do not ſee, but as it was Schiſm in the <hi>Jewiſh,</hi> which was the Type of the Chriſtian Church, to ſet up a ſeparate Altar, and Worſhip<g ref="char:punc">▪</g> ſo it muſt be Schiſm, to ſet up a ſeparate Table, and ſeparate way of Worſhip in the Chriſtian Church, which is the Anti-type.</p>
+               <p>I mention this, becauſe you, in the 32 page ſay, <hi>The common Out-cry is, that it is the ſetting up Altar againſt Altar;</hi> ſuppoſeing your thoughts here, might be upon Mr <hi>Dodwells</hi> one Altar, and one Prieſthood, as that which makes the Out-cry againſt you; though the Term of Set<g ref="char:EOLhyphen"/>ting up Altar againſt Altar, was uſed by many of the Fathers in the Primitive Times, againſt Schiſmaticks in their days, whom he follows. But Sir, If you without prejudice, will ſeriouſly peruſe that Book, you will find ſuch weighty reaſoning, that you will never more deſpiſe it; and if you cannot but deſpiſe it, you will perpetuate your Name amongſt the moſt Learned and Ju<g ref="char:EOLhyphen"/>dicious, above all your Tribe that have been, or are, and proſelite the Dioceſe beſides; if you will Anſwer that Book? However it will be a ſufficient Anſwer, for me to ſay, it is not the place that makes the Schiſm, but the ſeparate Communion; for, if you uſe your way of Worſhip in one of our Churches, it would not abate or excuſe the Schiſm; and ſo, if you were rightly ordained, and ſhould uſe the ſame way of Worſhip which we uſe in our Churches, and is required by the Church in your <hi>Stable,</hi> and through ſome Provi<g ref="char:EOLhyphen"/>dence neceſſitated to ſuch a place; no one of our Church would, nor a<g ref="char:EOLhyphen"/>ny other juſtly could charge you with Schiſm.</p>
+               <pb n="23" facs="tcp:151433:16"/>
+               <p>In your 25 page, <hi>Thoſe who will allow themſelves the Liberty of an <g ref="char:V">Ʋ</g>npre<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udiced thought, cannot but ſee the difference ſo ſmall, that as long as we be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ieve the ſame Chriſtian Faith, and agree in the ſame Proteſtant abhorence of Papal deluſions; we may eaſily be looked upon as one and the ſame, as well as two ſeveral Pariſh Churches may, eſpecially being <g ref="char:V">Ʋ</g>nited under the care and protection of one Proteſtant King, and Members of the ſame Common<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ealth.</hi>
+               </p>
+               <p>Difference in ſmall and little things comes oft in my way; I cannot but wonder, that we who agree in the Belief of thoſe High and Sacred Myſteries of Faith, ſo contrary to Fleſh and Blood, and ſo tranſcen<g ref="char:EOLhyphen"/>dant above Natural reaſon, which cannot be wrought in us, but by the Grace of God, and the operation of his Spirit; and yet that even a<g ref="char:EOLhyphen"/>mong theſe, there ſhould be men of high and preverſe minds, ſenſual, and ſuch who cauſe Diviſion: As the <hi>Donatiſts,</hi> who did ſeparate and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rend the Church, and yet believed the ſame Fundamental Faith, and were Zealous (to uſe your own Words) for the great Goſpel Truths, but their ſeparation was as yours is, for little things. How would you have your Separate Communion to be looked upon as one and the ſame Church, as well as two ſeveral Pariſh Churches? When it is apparent that you do Rob our Pariſh Churches. All you can and would Mo<g ref="char:EOLhyphen"/>nopolize all our Pariſhes into your Communion, and yet forſooth would be looked upon as one of our Pariſh Churches: This is a Paradox which paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th all underſtanding.</p>
+               <p>And it is as wonderful, that the having the ſame Proteſtant abhorence of Popiſh deluſions, ſhould be a bar to Schiſm; a man may be an A<g ref="char:EOLhyphen"/>rian, Socinian; ay, or an Atheiſt, if he can but abhor Popery, and yet be free from Schiſm; is this one of your great Goſpel Truths? Is this any thing like Primitive Doctrine? that Hereſy, Atheiſm, Quakeriſm, and all other divided and currupt Opinions, ſo they but abhor Popery, may be looked upon as one and the ſame Church; is new and ſtrange Divinity.</p>
+               <p>Sir, all that follows in your Book, being of the ſame ſpinning I will ſpare my ſelf from any more trouble, and expoſe you no far<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her. The Reader will be able to Judge, whether I have, or not, given you a truer Notion of
+<pb n="24" facs="tcp:151433:17"/> Schiſm than that in your Enquiry, and ſufficiently convicted your un<g ref="char:EOLhyphen"/>skilfulneſs in expounding Scripture; and fully Anſwered you.</p>
+               <p>I will only add this digreſſion, which I think not impertinent, and then I'll cloſe.</p>
+               <p>The Prayers made for the the <hi>Wedneſday</hi> Faſt, cannot be Charged with Popery, as your Party have the Liturgy; Supplications fitted to the Occaſion, and for all capacities, impoſed by Lawful Authority, by them who have the Rule over us; What account can you give to God, to the Government, and to your own Conſcience, why you omit or re<g ref="char:EOLhyphen"/>fuſe ſo indiſpenſible a duty.</p>
+               <p>The Apoſtle ſaith, <hi>Obey them that have the Rule over you;</hi> and Com<g ref="char:EOLhyphen"/>mands this duty of Obedience to our Governors, upon the Severeſt and Higheſt Penalties. <hi>Rom.</hi> 13. v. 1, 2. <hi>Whoſoever therefore reſiſteth the Power, reſiſteth the Ordinance of God; and they that reſiſt ſhall receive to themſelves damnation.</hi>
+               </p>
+               <p>How can you reconcile your Practice with this Apoſtolical Injunction? Unleſs you can charge the Prayers with ſomething not lawful, or not rea<g ref="char:EOLhyphen"/>ſonable to be offered to God; you are highly Criminal in the Apoſtles Judgment. God Almighty hath now ſettled the Government, where there is as true and real Abhorence of Popiſh Deluſions, as you or any of your Party can pretend to; yet you yield not obedience to them even in a Religious Duty.</p>
+               <p>All your pretence is, that your Prayers are more purely Spiritual; you ſeek God in more apt and pleaſing words, words which immediately flow from the Spirit.</p>
+               <p>What is this? but to limit and reſtrain the Holy Scripture to your way and to your Faction, as if no Prayers but thoſe hammered out of your own Brains, could bear the ſtamp of the Holy Spirit of God; and is it<note n="*" place="margin">Swop<g ref="char:EOLhyphen"/>pery in Robbery.</note> not highly Prophane, if not Blaſphemy, to impure all your Levites and Impertinencys to the immediate dictates of the Spirit of God? though this Holy Spirit you pretend to, can no where be found, but in the Holy Catholick Church, and Communion of Saints; where alone our Bleſſed Lord hath Promiſed it ſhall be to the end of the World.</p>
+               <pb n="25" facs="tcp:151433:17"/>
+               <p>All the Impoſtors in the world who have ſet up before you even <hi>Ma<g ref="char:EOLhyphen"/>homet</hi> himſelf, and a great number of Hereticks, and Schiſmaticks in the Chriſtian Church, pretended to inſpiration, and by it have deceiv<g ref="char:EOLhyphen"/>ed many. But this your pretence to inſpiration, can never proſelyte any, but the Ignorant and Undeſcerning, and thoſe who are given to Change; unleſs you can produce the Credentials of a Mira<g ref="char:EOLhyphen"/>cle.</p>
+               <p>All our Prayers in our Liturgy are directed to God Almighty, and are preſented in the name of the Bleſſed Jeſus, and all we ſupplicate for, are for no other things, but what is allowed of, and required in our holy Religion: Now why any but Atheiſts, and thoſe that are Anti<g ref="char:EOLhyphen"/>chriſtian, joyn not with us in thoſe Prayers and Praiſes, eſpecially con<g ref="char:EOLhyphen"/>ſidering that it is the Apoſtle Saint <hi>Paul's</hi> Judgment, <hi>Rom.</hi> 15.6. <hi>That we might with one mind, and with one Mouth glorifie God, the Father of our Lord Jeſus Chriſt;</hi> I know not, unleſs for the ſame Reaſon that you refuſe thoſe Prayers for the Faſt added to the Liturgy, <hi>viz.</hi> Obſtinacy and Diſobedience.</p>
+               <p>Now Sir, to cloſe up all; you cannot but ſee your Guilt, I Addreſs to you in all Meekneſs and Chriſtian Charity, that you will ſeriouſly conſider the dangerous and deſperate State and Condition you are in; for all the great and precious promiſes, made by God in Chriſt Jeſus, are only to them who are Members of the Myſtical Body of Chriſt, the Ho<g ref="char:EOLhyphen"/>ly Catholick Church and Communion of Saints, they who are not of the Catholick Church, and Communion of Saints, may flatter themſelves with Unwarrantable and Groundleſs Fancies; but can have no real Title, or Right to any of thoſe precious Promiſſes; and therefore as you love your Soul, ſuffer not filthy Lucre, Intereſt or Pride to with-hold you any longer out of the Catholick Church wherein alone Salvation can be had, it is not your purer Adminiſtrations, or any other pretence, can avail or ſtand you in any ſtead, they only who are of this Society, which is the Myſtical Body of Chriſt here on earth; have any Right (<hi>Heb.</hi> 12 verſ. 22.23.24.) to come to the Mount <hi>Sion,</hi> and unto the City of the living God, the Heavenly <hi>Jeruſalem,</hi> and to an innumerable Company of
+<pb n="26" facs="tcp:151433:18"/> Angels to the General Aſſembly, and Church of the firſt born, which are Written in Heaven: And to God the Judge of all; and to the Spirits of juſt men made perfect: And to Jeſus the Mediator of the New Covenant; that you may have Right and Title to all this; I heartily Pray with the Church in the Liturgy, <hi>That it may pleaſe God to bring you into the way of Truth; and all ſuch as have erred, and are deceived,</hi> Amen.</p>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:151433:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
